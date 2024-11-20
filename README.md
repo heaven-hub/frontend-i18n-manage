@@ -1,2 +1,2 @@
-# frontend-i18n-manage
-i18n data for management software
+# 用於軟件項目的i18n數據管理
+
