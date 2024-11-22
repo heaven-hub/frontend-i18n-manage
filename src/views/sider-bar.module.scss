@@ -1,0 +1,9 @@
+.navLayout{
+    display: flex;
+    :global{
+        .side-bar-list{
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
